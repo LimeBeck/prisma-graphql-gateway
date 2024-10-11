@@ -7,7 +7,7 @@
     "url": "https://github.com/Sebbia/prisma-graphql-gateway.git"
   },
   "dependencies": {
-    "@sentry/node": "5.27.3",
+    "@sentry/node": "7.75.0",
     "@types/graphql": "14.2.1",
     "apollo-link": "1.2.14",
     "apollo-link-context": "1.0.20",
@@ -15,7 +15,7 @@
     "apollo-link-error": "1.1.13",
     "apollo-server-errors": "2.4.2",
     "apollo-link-ws": "1.0.20",
-    "apollo-server": "2.21.0",
+    "apollo-server": "3.13.0",
     "apollo-server-plugin-base": "0.10.2",
     "cross-fetch": "^3.0.6",
     "dotenv": "8.2.0",
